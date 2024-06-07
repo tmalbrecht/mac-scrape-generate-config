@@ -1,0 +1,17 @@
+NLHRL_SW1#show eapol sessions 
+
+----------------------------- Non-EAP Clients ------------------------------
+Unit/Port Client MAC Address State                                     Vid  Pri
+--------- ------------------ ----------------------------------------- ---- ---
+1/6       D2:D1:72:ED:27:1C  Authenticated By RADIUS                   N/A  N/A
+1/7       6A:10:F0:60:B3:F6  Authenticated By RADIUS                   N/A  N/A
+1/8       E6:31:E1:C8:FC:9C  Authenticated By RADIUS                   N/A  N/A
+1/9       5E:BA:5A:15:53:07  Authenticated By RADIUS                   N/A  N/A
+1/10      4A:C5:44:64:25:39  Authenticated By RADIUS                   N/A  N/A
+1/15      F2:23:F1:73:16:68  Authenticated By RADIUS                   N/A  N/A
+1/18      CA:D4:C8:6A:48:03  Authenticated By RADIUS                   N/A  N/A
+1/19      56:4A:7E:A7:AB:A7  Authenticated By RADIUS                   N/A  N/A
+Total number of DHCP authenticated phones: 0
+Total number of EAP authenticated clients: 0
+Total number of non-EAP authenticated clients: 8
+Total number of unauthenticated clients: 0
